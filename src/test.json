@@ -1,0 +1,1832 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "en-v1.2.0.4-t0.3.c",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 0.58,
+      "sid": 1,
+      "location": 2,
+      "content": "我明白"
+    },
+    {
+      "from": 0.58,
+      "to": 0.86,
+      "sid": 2,
+      "location": 2,
+      "content": "虽然"
+    },
+    {
+      "from": 0.86,
+      "to": 4.22,
+      "sid": 3,
+      "location": 2,
+      "content": "当我说生命毫无意义"
+    },
+    {
+      "from": 4.22,
+      "to": 6.56,
+      "sid": 4,
+      "location": 2,
+      "content": "我不是说你的生命毫无意义"
+    },
+    {
+      "from": 6.56,
+      "to": 8.38,
+      "sid": 5,
+      "location": 2,
+      "content": "你的生活可以有一千种不同的意义"
+    },
+    {
+      "from": 8.38,
+      "to": 9.18,
+      "sid": 6,
+      "location": 2,
+      "content": "甚至只有一个"
+    },
+    {
+      "from": 9.18,
+      "to": 11.66,
+      "sid": 7,
+      "location": 2,
+      "content": "2.我建议你不要只吃一种，以防你记错了"
+    },
+    {
+      "from": 12.54,
+      "to": 14.52,
+      "sid": 8,
+      "location": 2,
+      "content": "但要有这个核心价值"
+    },
+    {
+      "from": 14.52,
+      "to": 15.46,
+      "sid": 9,
+      "location": 2,
+      "content": "这个核心信念"
+    },
+    {
+      "from": 15.46,
+      "to": 17.88,
+      "sid": 10,
+      "location": 2,
+      "content": "你生命的核心意义"
+    },
+    {
+      "from": 17.88,
+      "to": 22.96,
+      "sid": 11,
+      "location": 2,
+      "content": "永远拥有它是一种愚蠢的生活方式，真的很有害"
+    },
+    {
+      "from": 22.96,
+      "to": 25.18,
+      "sid": 12,
+      "location": 2,
+      "content": "尤其是如果你相信你年轻时选了他"
+    },
+    {
+      "from": 25.18,
+      "to": 26.64,
+      "sid": 13,
+      "location": 2,
+      "content": "你必须记得当你年轻的时候"
+    },
+    {
+      "from": 26.64,
+      "to": 28.02,
+      "sid": 14,
+      "location": 2,
+      "content": "你的大脑很有可塑性"
+    },
+    {
+      "from": 28.02,
+      "to": 33.01,
+      "sid": 15,
+      "location": 2,
+      "content": "但它如此顽固，以至于它在你的余生中承担着事情"
+    },
+    {
+      "from": 33.01,
+      "to": 33.97,
+      "sid": 16,
+      "location": 2,
+      "content": "但你甚至不在属于他们的地方"
+    },
+    {
+      "from": 33.97,
+      "to": 34.75,
+      "sid": 17,
+      "location": 2,
+      "content": "你是下意识的"
+    },
+    {
+      "from": 34.75,
+      "to": 36.379,
+      "sid": 18,
+      "location": 2,
+      "content": "我是凭经验这么说的"
+    },
+    {
+      "from": 36.379,
+      "to": 37.559,
+      "sid": 19,
+      "location": 2,
+      "content": "当我七岁的时候"
+    },
+    {
+      "from": 37.559,
+      "to": 39.019,
+      "sid": 20,
+      "location": 2,
+      "content": "我爸爸对我说了些什么"
+    },
+    {
+      "from": 39.019,
+      "to": 43.34,
+      "sid": 21,
+      "location": 2,
+      "content": "直到今天，这是我将快乐地孤独死去的原因"
+    },
+    {
+      "from": 43.34,
+      "to": 44.44,
+      "sid": 22,
+      "location": 2,
+      "content": "我可以补充"
+    },
+    {
+      "from": 44.46,
+      "to": 45.66,
+      "sid": 23,
+      "location": 2,
+      "content": "但我当时七岁"
+    },
+    {
+      "from": 45.66,
+      "to": 46.86,
+      "sid": 24,
+      "location": 2,
+      "content": "我不知道什么是生活"
+    },
+    {
+      "from": 46.86,
+      "to": 47.34,
+      "sid": 25,
+      "location": 2,
+      "content": "我就像"
+    },
+    {
+      "from": 47.34,
+      "to": 48.6,
+      "sid": 26,
+      "location": 2,
+      "content": "我不知道什么是存在"
+    },
+    {
+      "from": 48.6,
+      "to": 49.26,
+      "sid": 27,
+      "location": 2,
+      "content": "他妈的怎么会"
+    },
+    {
+      "from": 49.26,
+      "to": 49.96,
+      "sid": 28,
+      "location": 2,
+      "content": "我知道"
+    },
+    {
+      "from": 49.96,
+      "to": 50.38,
+      "sid": 29,
+      "location": 2,
+      "content": "所以说"
+    },
+    {
+      "from": 50.38,
+      "to": 52.46,
+      "sid": 30,
+      "location": 2,
+      "content": "我想我应该问我爸爸，因为他会修电脑"
+    },
+    {
+      "from": 52.46,
+      "to": 53.54,
+      "sid": 31,
+      "location": 2,
+      "content": "所以他一定知道"
+    },
+    {
+      "from": 54.02,
+      "to": 54.98,
+      "sid": 32,
+      "location": 2,
+      "content": "所以我就像爸爸一样"
+    },
+    {
+      "from": 54.98,
+      "to": 55.64,
+      "sid": 33,
+      "location": 2,
+      "content": "我们都做什么"
+    },
+    {
+      "from": 55.64,
+      "to": 56.4,
+      "sid": 34,
+      "location": 2,
+      "content": "生命的意义是什么"
+    },
+    {
+      "from": 56.4,
+      "to": 58.8,
+      "sid": 35,
+      "location": 2,
+      "content": "为什么我们都在这里"
+    },
+    {
+      "from": 59.56,
+      "to": 61.08,
+      "sid": 36,
+      "location": 2,
+      "content": "我爸爸爱他的孩子"
+    },
+    {
+      "from": 61.08,
+      "to": 63.52,
+      "sid": 37,
+      "location": 2,
+      "content": "所以他想用一种你能理解的方式向他儿子解释"
+    },
+    {
+      "from": 63.52,
+      "to": 65.2,
+      "sid": 38,
+      "location": 2,
+      "content": "但不幸的是他的儿子是一个他妈的头"
+    },
+    {
+      "from": 65.74,
+      "to": 68.5,
+      "sid": 39,
+      "location": 2,
+      "content": "所以他必须用他妈的头听得懂的方式解释"
+    },
+    {
+      "from": 68.5,
+      "to": 70.78,
+      "sid": 40,
+      "location": 2,
+      "content": "他不小心做得很完美"
+    },
+    {
+      "from": 71.9,
+      "to": 73.6,
+      "sid": 41,
+      "location": 2,
+      "content": "从那以后它就一直伴随着我"
+    },
+    {
+      "from": 73.6,
+      "to": 74.96,
+      "sid": 42,
+      "location": 2,
+      "content": "这是他说的"
+    },
+    {
+      "from": 75.68,
+      "to": 76.64,
+      "sid": 43,
+      "location": 2,
+      "content": "我七岁了"
+    },
+    {
+      "from": 78.84,
+      "to": 79.68,
+      "sid": 44,
+      "location": 2,
+      "content": "他走得很好"
+    },
+    {
+      "from": 79.68,
+      "to": 80.27,
+      "sid": 45,
+      "location": 2,
+      "content": "巴迪"
+    },
+    {
+      "from": 80.27,
+      "to": 82.11,
+      "sid": 46,
+      "location": 2,
+      "content": "想象一下你的生活"
+    },
+    {
+      "from": 82.11,
+      "to": 82.61,
+      "sid": 47,
+      "location": 2,
+      "content": "我的生活"
+    },
+    {
+      "from": 82.61,
+      "to": 83.99,
+      "sid": 48,
+      "location": 2,
+      "content": "其他人的个人生活"
+    },
+    {
+      "from": 83.99,
+      "to": 87.91,
+      "sid": 49,
+      "location": 2,
+      "content": "想象我们所有的生活就像我们自己的拼图"
+    },
+    {
+      "from": 87.91,
+      "to": 89.23,
+      "sid": 50,
+      "location": 2,
+      "content": "当我们经历生活的时候"
+    },
+    {
+      "from": 89.23,
+      "to": 91.12,
+      "sid": 51,
+      "location": 2,
+      "content": "我们只是慢慢地把它拼凑在一起"
+    },
+    {
+      "from": 91.12,
+      "to": 91.9,
+      "sid": 52,
+      "location": 2,
+      "content": "一点一点"
+    },
+    {
+      "from": 91.9,
+      "to": 96.43,
+      "sid": 53,
+      "location": 2,
+      "content": "根据我们所学到的经验和教训，直到我们得到最好的画面"
+    },
+    {
+      "from": 96.43,
+      "to": 101.92,
+      "sid": 54,
+      "location": 2,
+      "content": "但问题是每个人都把拼图的盒子弄丢了"
+    },
+    {
+      "from": 102.0,
+      "to": 104.48,
+      "sid": 55,
+      "location": 2,
+      "content": "所以我们谁也不知道我们要塑造的形象是什么"
+    },
+    {
+      "from": 104.48,
+      "to": 107.119,
+      "sid": 56,
+      "location": 2,
+      "content": "我们只是他妈的自信地猜测"
+    },
+    {
+      "from": 107.76,
+      "to": 109.84,
+      "sid": 57,
+      "location": 2,
+      "content": "所以做拼图最好的方法"
+    },
+    {
+      "from": 109.84,
+      "to": 112.98,
+      "sid": 58,
+      "location": 2,
+      "content": "当你没有图像可以处理时，就从外面开始"
+    },
+    {
+      "from": 112.98,
+      "to": 114.899,
+      "sid": 59,
+      "location": 2,
+      "content": "四角的边"
+    },
+    {
+      "from": 120.6,
+      "to": 121.96,
+      "sid": 60,
+      "location": 2,
+      "content": "很明显，当你经历一生时"
+    },
+    {
+      "from": 121.96,
+      "to": 123.44,
+      "sid": 61,
+      "location": 2,
+      "content": "其中一些位可能会改变"
+    },
+    {
+      "from": 123.44,
+      "to": 124.68,
+      "sid": 62,
+      "location": 2,
+      "content": "有时你会交到新朋友"
+    },
+    {
+      "from": 124.68,
+      "to": 125.64,
+      "sid": 63,
+      "location": 2,
+      "content": "你会和所有的人失去联系"
+    },
+    {
+      "from": 125.64,
+      "to": 126.95,
+      "sid": 64,
+      "location": 2,
+      "content": "你得把这个角移一下"
+    },
+    {
+      "from": 126.95,
+      "to": 129.229,
+      "sid": 65,
+      "location": 2,
+      "content": "有时你会得到一份工作，这意味着你不能有某些爱好"
+    },
+    {
+      "from": 129.229,
+      "to": 129.71,
+      "sid": 66,
+      "location": 2,
+      "content": "你得决定"
+    },
+    {
+      "from": 129.71,
+      "to": 131.21,
+      "sid": 67,
+      "location": 2,
+      "content": "那么我想要更多的我的时间吗"
+    },
+    {
+      "from": 131.21,
+      "to": 132.15,
+      "sid": 68,
+      "location": 2,
+      "content": "还是我想要更多的工作时间"
+    },
+    {
+      "from": 132.15,
+      "to": 133.45,
+      "sid": 69,
+      "location": 2,
+      "content": "你得把这些东西搬来搬去"
+    },
+    {
+      "from": 133.45,
+      "to": 135.57,
+      "sid": 70,
+      "location": 2,
+      "content": "有时你会有一个家庭成员去世"
+    },
+    {
+      "from": 135.57,
+      "to": 137.23,
+      "sid": 71,
+      "location": 2,
+      "content": "他们会在你的生活中留下一个大洞"
+    },
+    {
+      "from": 137.23,
+      "to": 139.55,
+      "sid": 72,
+      "location": 2,
+      "content": "在那一刻，你必须找到一种方法来填补这个空白"
+    },
+    {
+      "from": 139.55,
+      "to": 141.2,
+      "sid": 73,
+      "location": 2,
+      "content": "否则你将永远不完整"
+    },
+    {
+      "from": 141.78,
+      "to": 144.12,
+      "sid": 74,
+      "location": 2,
+      "content": "对我来说很有意义"
+    },
+    {
+      "from": 144.12,
+      "to": 145.62,
+      "sid": 75,
+      "location": 2,
+      "content": "因为我当时七岁"
+    },
+    {
+      "from": 145.62,
+      "to": 148.5,
+      "sid": 76,
+      "location": 2,
+      "content": "我他妈的喜欢拼图"
+    },
+    {
+      "from": 148.939,
+      "to": 150.079,
+      "sid": 77,
+      "location": 2,
+      "content": "所以我就像没事一样"
+    },
+    {
+      "from": 150.079,
+      "to": 150.339,
+      "sid": 78,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 150.339,
+      "to": 152.259,
+      "sid": 79,
+      "location": 2,
+      "content": "所以一旦你把东西放在外面"
+    },
+    {
+      "from": 152.259,
+      "to": 154.139,
+      "sid": 80,
+      "location": 2,
+      "content": "图像的主要部分是什么"
+    },
+    {
+      "from": 154.139,
+      "to": 155.319,
+      "sid": 81,
+      "location": 2,
+      "content": "我们都在努力的方向"
+    },
+    {
+      "from": 155.319,
+      "to": 156.139,
+      "sid": 82,
+      "location": 2,
+      "content": "他走得很好"
+    },
+    {
+      "from": 156.139,
+      "to": 158.649,
+      "sid": 83,
+      "location": 2,
+      "content": "那是那是搭档的作品"
+    },
+    {
+      "from": 158.649,
+      "to": 160.189,
+      "sid": 84,
+      "location": 2,
+      "content": "你想要这个完美的人"
+    },
+    {
+      "from": 160.189,
+      "to": 161.809,
+      "sid": 85,
+      "location": 2,
+      "content": "你从未见过的人"
+    },
+    {
+      "from": 161.809,
+      "to": 163.44,
+      "sid": 86,
+      "location": 2,
+      "content": "不知从哪里冒出来"
+    },
+    {
+      "from": 163.44,
+      "to": 164.26,
+      "sid": 87,
+      "location": 2,
+      "content": "适合你的生活"
+    },
+    {
+      "from": 164.26,
+      "to": 168.32,
+      "sid": 88,
+      "location": 2,
+      "content": "完美地完成你，让你一生中第一次完整"
+    },
+    {
+      "from": 168.32,
+      "to": 170.24,
+      "sid": 89,
+      "location": 2,
+      "content": "就像你妈妈为我做的那样"
+    },
+    {
+      "from": 172.64,
+      "to": 175.199,
+      "sid": 90,
+      "location": 2,
+      "content": "七岁七岁"
+    },
+    {
+      "from": 175.199,
+      "to": 176.659,
+      "sid": 91,
+      "location": 2,
+      "content": "我希望他说的是冰淇淋"
+    },
+    {
+      "from": 176.659,
+      "to": 178.439,
+      "sid": 92,
+      "location": 2,
+      "content": "我们本可以滚蛋的"
+    },
+    {
+      "from": 179.91,
+      "to": 182.27,
+      "sid": 93,
+      "location": 2,
+      "content": "即使他说的话听起来很甜蜜"
+    },
+    {
+      "from": 182.27,
+      "to": 186.05,
+      "sid": 94,
+      "location": 2,
+      "content": "不管它在我七岁的大脑中表现出什么"
+    },
+    {
+      "from": 186.05,
+      "to": 189.11,
+      "sid": 95,
+      "location": 2,
+      "content": "如果你不和某人在一起，你就崩溃了"
+    },
+    {
+      "from": 189.11,
+      "to": 192.11,
+      "sid": 96,
+      "location": 2,
+      "content": "如果你不和某人在一起，你就是不完整的"
+    },
+    {
+      "from": 192.11,
+      "to": 195.86,
+      "sid": 97,
+      "location": 2,
+      "content": "如果你不和某人在一起，你就不完整"
+    },
+    {
+      "from": 196.64,
+      "to": 199.08,
+      "sid": 98,
+      "location": 2,
+      "content": "这不仅仅是我爸爸让我感觉到的"
+    },
+    {
+      "from": 199.08,
+      "to": 201.26,
+      "sid": 99,
+      "location": 2,
+      "content": "这是我们作为一个社会所做的"
+    },
+    {
+      "from": 201.26,
+      "to": 203.42,
+      "sid": 100,
+      "location": 2,
+      "content": "在过去四十年里出生的每一个孩子"
+    },
+    {
+      "from": 203.42,
+      "to": 205.879,
+      "sid": 101,
+      "location": 2,
+      "content": "感觉每个迪斯尼公主都有一个王子"
+    },
+    {
+      "from": 205.879,
+      "to": 207.199,
+      "sid": 102,
+      "location": 2,
+      "content": "每个王子都有一位公主"
+    },
+    {
+      "from": 207.199,
+      "to": 208.379,
+      "sid": 103,
+      "location": 2,
+      "content": "每个电视节目"
+    },
+    {
+      "from": 208.379,
+      "to": 208.879,
+      "sid": 104,
+      "location": 2,
+      "content": "电影"
+    },
+    {
+      "from": 208.879,
+      "to": 210.439,
+      "sid": 105,
+      "location": 2,
+      "content": "总是有一个角色在里面"
+    },
+    {
+      "from": 210.439,
+      "to": 210.799,
+      "sid": 106,
+      "location": 2,
+      "content": "对呀"
+    },
+    {
+      "from": 210.799,
+      "to": 212.56,
+      "sid": 107,
+      "location": 2,
+      "content": "不想恋爱的人"
+    },
+    {
+      "from": 212.56,
+      "to": 212.84,
+      "sid": 108,
+      "location": 2,
+      "content": "对呀"
+    },
+    {
+      "from": 212.84,
+      "to": 213.88,
+      "sid": 109,
+      "location": 2,
+      "content": "他们对自己很满意"
+    },
+    {
+      "from": 213.88,
+      "to": 214.92,
+      "sid": 110,
+      "location": 2,
+      "content": "但在系列结束时"
+    },
+    {
+      "from": 214.92,
+      "to": 216.75,
+      "sid": 111,
+      "location": 2,
+      "content": "猜猜他们错了什么"
+    },
+    {
+      "from": 217.639,
+      "to": 219.519,
+      "sid": 112,
+      "location": 2,
+      "content": "他们想独处是错误的"
+    },
+    {
+      "from": 219.519,
+      "to": 220.719,
+      "sid": 113,
+      "location": 2,
+      "content": "真是个该死的白痴"
+    },
+    {
+      "from": 220.719,
+      "to": 221.639,
+      "sid": 114,
+      "location": 2,
+      "content": "每个人都需要一个人"
+    },
+    {
+      "from": 221.639,
+      "to": 222.119,
+      "sid": 115,
+      "location": 2,
+      "content": "是啊，是啊"
+    },
+    {
+      "from": 222.119,
+      "to": 223.959,
+      "sid": 116,
+      "location": 2,
+      "content": "他们只是一个烤棉花糖"
+    },
+    {
+      "from": 223.959,
+      "to": 224.92,
+      "sid": 117,
+      "location": 2,
+      "content": "他们不是"
+    },
+    {
+      "from": 225.06,
+      "to": 226.56,
+      "sid": 118,
+      "location": 2,
+      "content": "这一切都与爱有关"
+    },
+    {
+      "from": 226.56,
+      "to": 227.44,
+      "sid": 119,
+      "location": 2,
+      "content": "离婚"
+    },
+    {
+      "from": 227.44,
+      "to": 231.47,
+      "sid": 120,
+      "location": 2,
+      "content": "在你成长的过程中，这是一件完全常见的事情，没有错"
+    },
+    {
+      "from": 231.47,
+      "to": 233.27,
+      "sid": 121,
+      "location": 2,
+      "content": "你朋友的父母离婚了"
+    },
+    {
+      "from": 233.27,
+      "to": 234.79,
+      "sid": 122,
+      "location": 2,
+      "content": "你被告知不要谈论这件事"
+    },
+    {
+      "from": 234.79,
+      "to": 235.63,
+      "sid": 123,
+      "location": 2,
+      "content": "或者向他们提起"
+    },
+    {
+      "from": 235.63,
+      "to": 236.5,
+      "sid": 124,
+      "location": 2,
+      "content": "因为这是禁忌"
+    },
+    {
+      "from": 236.5,
+      "to": 240.13,
+      "sid": 125,
+      "location": 2,
+      "content": "这是禁忌的原因是因为外面的每一段关系都是完美的"
+    },
+    {
+      "from": 240.13,
+      "to": 241.73,
+      "sid": 126,
+      "location": 2,
+      "content": "因为我们都不愿意承认"
+    },
+    {
+      "from": 241.73,
+      "to": 243.709,
+      "sid": 127,
+      "location": 2,
+      "content": "我们都不知道自己在做什么"
+    },
+    {
+      "from": 243.709,
+      "to": 245.709,
+      "sid": 128,
+      "location": 2,
+      "content": "当你在那个世界里抚养孩子的时候"
+    },
+    {
+      "from": 245.709,
+      "to": 247.149,
+      "sid": 129,
+      "location": 2,
+      "content": "一切都指向爱"
+    },
+    {
+      "from": 247.149,
+      "to": 248.589,
+      "sid": 130,
+      "location": 2,
+      "content": "一切都完美地展现在外面"
+    },
+    {
+      "from": 248.589,
+      "to": 250.46,
+      "sid": 131,
+      "location": 2,
+      "content": "当你养了他们18年"
+    },
+    {
+      "from": 250.46,
+      "to": 252.3,
+      "sid": 132,
+      "location": 2,
+      "content": "当我们第一次成为成年人"
+    },
+    {
+      "from": 252.3,
+      "to": 254.02,
+      "sid": 133,
+      "location": 2,
+      "content": "在她十几岁和二十出头的时候"
+    },
+    {
+      "from": 254.02,
+      "to": 255.0,
+      "sid": 134,
+      "location": 2,
+      "content": "我们很害怕"
+    },
+    {
+      "from": 255.0,
+      "to": 257.6,
+      "sid": 135,
+      "location": 2,
+      "content": "我们太努力了，以至于我们中的一些人会带错人"
+    },
+    {
+      "from": 257.6,
+      "to": 258.66,
+      "sid": 136,
+      "location": 2,
+      "content": "错误的拼图片"
+    },
+    {
+      "from": 258.66,
+      "to": 261.589,
+      "sid": 137,
+      "location": 2,
+      "content": "把它们塞进我们的拼图里"
+    },
+    {
+      "from": 261.589,
+      "to": 263.31,
+      "sid": 138,
+      "location": 2,
+      "content": "否认它们显然不适合"
+    },
+    {
+      "from": 263.31,
+      "to": 263.43,
+      "sid": 139,
+      "location": 2,
+      "content": "哦"
+    },
+    {
+      "from": 263.43,
+      "to": 264.43,
+      "sid": 140,
+      "location": 2,
+      "content": "我们会把碎片移开"
+    },
+    {
+      "from": 264.43,
+      "to": 265.39,
+      "sid": 141,
+      "location": 2,
+      "content": "我不需要这个爱好"
+    },
+    {
+      "from": 265.39,
+      "to": 266.21,
+      "sid": 142,
+      "location": 2,
+      "content": "我不需要这个意见"
+    },
+    {
+      "from": 266.21,
+      "to": 266.47,
+      "sid": 143,
+      "location": 2,
+      "content": "妈妈"
+    },
+    {
+      "from": 266.47,
+      "to": 267.37,
+      "sid": 144,
+      "location": 2,
+      "content": "谁是测试的"
+    },
+    {
+      "from": 267.37,
+      "to": 268.7,
+      "sid": 145,
+      "location": 2,
+      "content": "你最近为我做了什么"
+    },
+    {
+      "from": 268.7,
+      "to": 271.72,
+      "sid": 146,
+      "location": 2,
+      "content": "我们会强迫这个该死的人进入我们的生活"
+    },
+    {
+      "from": 271.72,
+      "to": 274.68,
+      "sid": 147,
+      "location": 2,
+      "content": "因为我们宁愿有也不愿一无所有"
+    },
+    {
+      "from": 275.28,
+      "to": 277.68,
+      "sid": 148,
+      "location": 2,
+      "content": "五年后，你站在那里看着一个拼图"
+    },
+    {
+      "from": 277.68,
+      "to": 279.08,
+      "sid": 149,
+      "location": 2,
+      "content": "你不认识就像啊"
+    },
+    {
+      "from": 279.08,
+      "to": 281.52,
+      "sid": 150,
+      "location": 2,
+      "content": "有一个他妈的在这中间"
+    },
+    {
+      "from": 286.38,
+      "to": 288.52,
+      "sid": 151,
+      "location": 2,
+      "content": "也许你做我的完美的人"
+    },
+    {
+      "from": 288.9,
+      "to": 289.74,
+      "sid": 152,
+      "location": 2,
+      "content": "也许你会遇到他们"
+    },
+    {
+      "from": 289.74,
+      "to": 290.48,
+      "sid": 153,
+      "location": 2,
+      "content": "你出去"
+    },
+    {
+      "from": 290.48,
+      "to": 291.58,
+      "sid": 154,
+      "location": 2,
+      "content": "他们让你发笑"
+    },
+    {
+      "from": 291.58,
+      "to": 292.36,
+      "sid": 155,
+      "location": 2,
+      "content": "你让他们笑"
+    },
+    {
+      "from": 292.36,
+      "to": 293.5,
+      "sid": 156,
+      "location": 2,
+      "content": "他们有一个愚蠢的笑声"
+    },
+    {
+      "from": 293.5,
+      "to": 295.0,
+      "sid": 157,
+      "location": 2,
+      "content": "但的爱它"
+    },
+    {
+      "from": 296.4,
+      "to": 297.56,
+      "sid": 158,
+      "location": 2,
+      "content": "他们喜欢你喜欢的东西"
+    },
+    {
+      "from": 297.56,
+      "to": 298.92,
+      "sid": 159,
+      "location": 2,
+      "content": "他们喜欢你的特质"
+    },
+    {
+      "from": 298.92,
+      "to": 299.44,
+      "sid": 160,
+      "location": 2,
+      "content": "而且很棒"
+    },
+    {
+      "from": 299.44,
+      "to": 299.9,
+      "sid": 161,
+      "location": 2,
+      "content": "太完美了"
+    },
+    {
+      "from": 299.9,
+      "to": 300.44,
+      "sid": 162,
+      "location": 2,
+      "content": "我的天啊"
+    },
+    {
+      "from": 300.44,
+      "to": 303.52,
+      "sid": 163,
+      "location": 2,
+      "content": "他们让你完成了三个月"
+    },
+    {
+      "from": 304.96,
+      "to": 307.18,
+      "sid": 164,
+      "location": 2,
+      "content": "每段感情在三个月内都是完美的"
+    },
+    {
+      "from": 307.18,
+      "to": 309.28,
+      "sid": 165,
+      "location": 2,
+      "content": "这就是原因，因为三个月后"
+    },
+    {
+      "from": 309.28,
+      "to": 311.98,
+      "sid": 166,
+      "location": 2,
+      "content": "那时你意识到没有其他人是一个锯片"
+    },
+    {
+      "from": 312.62,
+      "to": 316.66,
+      "sid": 167,
+      "location": 2,
+      "content": "这个星球上的其他人都和你一样深刻、复杂和独立"
+    },
+    {
+      "from": 316.66,
+      "to": 317.24,
+      "sid": 168,
+      "location": 2,
+      "content": "也就是说他们"
+    },
+    {
+      "from": 317.24,
+      "to": 317.42,
+      "sid": 169,
+      "location": 2,
+      "content": "我也是"
+    },
+    {
+      "from": 317.42,
+      "to": 319.22,
+      "sid": 170,
+      "location": 2,
+      "content": "在他们生命的最后二十年左右"
+    },
+    {
+      "from": 319.22,
+      "to": 320.52,
+      "sid": 171,
+      "location": 2,
+      "content": "做他们自己的拼图"
+    },
+    {
+      "from": 320.52,
+      "to": 322.34,
+      "sid": 172,
+      "location": 2,
+      "content": "就像你一直在做你的一样"
+    },
+    {
+      "from": 322.34,
+      "to": 325.97,
+      "sid": 173,
+      "location": 2,
+      "content": "你不能突然指望他们放弃他们所取得的一切成就"
+    },
+    {
+      "from": 325.97,
+      "to": 327.13,
+      "sid": 174,
+      "location": 2,
+      "content": "突然融入你的"
+    },
+    {
+      "from": 327.13,
+      "to": 328.37,
+      "sid": 175,
+      "location": 2,
+      "content": "就像你会生气一样"
+    },
+    {
+      "from": 328.37,
+      "to": 331.67,
+      "sid": 176,
+      "location": 2,
+      "content": "如果他们让你牺牲你所做的一切来突然适应他们的生活"
+    },
+    {
+      "from": 331.67,
+      "to": 333.37,
+      "sid": 177,
+      "location": 2,
+      "content": "但现在因为你们喜欢对方"
+    },
+    {
+      "from": 333.37,
+      "to": 335.23,
+      "sid": 178,
+      "location": 2,
+      "content": "因为你们对彼此感兴趣"
+    },
+    {
+      "from": 335.23,
+      "to": 337.22,
+      "sid": 179,
+      "location": 2,
+      "content": "现在你要一起做一个拼图"
+    },
+    {
+      "from": 337.22,
+      "to": 338.78,
+      "sid": 180,
+      "location": 2,
+      "content": "我们都知道他妈的有多烦人"
+    },
+    {
+      "from": 338.78,
+      "to": 340.1,
+      "sid": 181,
+      "location": 2,
+      "content": "那就是"
+    },
+    {
+      "from": 344.719,
+      "to": 346.679,
+      "sid": 182,
+      "location": 2,
+      "content": "但你这么做是因为你恋爱了"
+    },
+    {
+      "from": 346.679,
+      "to": 347.479,
+      "sid": 183,
+      "location": 2,
+      "content": "你有兴趣"
+    },
+    {
+      "from": 347.479,
+      "to": 349.159,
+      "sid": 184,
+      "location": 2,
+      "content": "也许在最初的几年里"
+    },
+    {
+      "from": 349.159,
+      "to": 349.519,
+      "sid": 185,
+      "location": 2,
+      "content": "它是伟大的"
+    },
+    {
+      "from": 349.519,
+      "to": 349.799,
+      "sid": 186,
+      "location": 2,
+      "content": "就像"
+    },
+    {
+      "from": 349.799,
+      "to": 350.239,
+      "sid": 187,
+      "location": 2,
+      "content": "我的天啊"
+    },
+    {
+      "from": 350.239,
+      "to": 351.44,
+      "sid": 188,
+      "location": 2,
+      "content": "你爱我的这一点"
+    },
+    {
+      "from": 351.44,
+      "to": 352.62,
+      "sid": 189,
+      "location": 2,
+      "content": "我喜欢你的这一点"
+    },
+    {
+      "from": 352.62,
+      "to": 353.28,
+      "sid": 190,
+      "location": 2,
+      "content": "我的天啊"
+    },
+    {
+      "from": 353.28,
+      "to": 354.3,
+      "sid": 191,
+      "location": 2,
+      "content": "我们得到了同样的东西"
+    },
+    {
+      "from": 354.3,
+      "to": 355.0,
+      "sid": 192,
+      "location": 2,
+      "content": "是啊，是啊"
+    },
+    {
+      "from": 357.14,
+      "to": 359.78,
+      "sid": 193,
+      "location": 2,
+      "content": "但时间不等于成功"
+    },
+    {
+      "from": 361.1,
+      "to": 364.14,
+      "sid": 194,
+      "location": 2,
+      "content": "你可以和某人共度五年或更长时间"
+    },
+    {
+      "from": 364.14,
+      "to": 365.82,
+      "sid": 195,
+      "location": 2,
+      "content": "只有在所有的乐趣之后"
+    },
+    {
+      "from": 365.82,
+      "to": 366.98,
+      "sid": 196,
+      "location": 2,
+      "content": "你一定在看拼图"
+    },
+    {
+      "from": 366.98,
+      "to": 371.04,
+      "sid": 197,
+      "location": 2,
+      "content": "意识到你们都在朝着非常不同的形象努力"
+    },
+    {
+      "from": 371.38,
+      "to": 373.78,
+      "sid": 198,
+      "location": 2,
+      "content": "当我们意识到你想要不同的东西"
+    },
+    {
+      "from": 373.78,
+      "to": 379.16,
+      "sid": 199,
+      "location": 2,
+      "content": "在那一刻你有一个非常非常困难的问题要问自己"
+    },
+    {
+      "from": 379.819,
+      "to": 380.219,
+      "sid": 200,
+      "location": 2,
+      "content": "一个"
+    },
+    {
+      "from": 381.499,
+      "to": 385.46,
+      "sid": 201,
+      "location": 2,
+      "content": "我承认我生命中的过去五年是一种浪费吗？"
+    },
+    {
+      "from": 388.099,
+      "to": 391.04,
+      "sid": 202,
+      "location": 2,
+      "content": "我会浪费我的余生吗"
+    },
+    {
+      "from": 394.099,
+      "to": 397.059,
+      "sid": 203,
+      "location": 2,
+      "content": "百分之五十五的婚姻以离婚告终"
+    },
+    {
+      "from": 398.059,
+      "to": 402.04,
+      "sid": 204,
+      "location": 2,
+      "content": "你百分之九十九零的关系是在他们三十岁之前开始的"
+    },
+    {
+      "from": 403.68,
+      "to": 405.42,
+      "sid": 205,
+      "location": 2,
+      "content": "如果那些是手术的看台"
+    },
+    {
+      "from": 405.42,
+      "to": 407.38,
+      "sid": 206,
+      "location": 2,
+      "content": "我们谁也不会冒这个险"
+    },
+    {
+      "from": 409.26,
+      "to": 410.94,
+      "sid": 207,
+      "location": 2,
+      "content": "而是因为这是爱，更愚蠢"
+    },
+    {
+      "from": 410.94,
+      "to": 412.82,
+      "sid": 208,
+      "location": 2,
+      "content": "我们就像躺在手术台上一样"
+    },
+    {
+      "from": 412.82,
+      "to": 415.42,
+      "sid": 209,
+      "location": 2,
+      "content": "也许这次我不会死在里面"
+    },
+    {
+      "from": 416.7,
+      "to": 419.1,
+      "sid": 210,
+      "location": 2,
+      "content": "哈哈哈哈哈哈哈"
+    },
+    {
+      "from": 419.18,
+      "to": 424.16,
+      "sid": 211,
+      "location": 2,
+      "content": "我们这一代人已经变得如此痴迷于开始他们的余生"
+    },
+    {
+      "from": 424.16,
+      "to": 428.06,
+      "sid": 212,
+      "location": 2,
+      "content": "他们愿意放弃他们目前生活的人"
+    },
+    {
+      "from": 428.48,
+      "to": 432.86,
+      "sid": 213,
+      "location": 2,
+      "content": "我们把浪漫的想法浪漫化了，这是癌症"
+    },
+    {
+      "from": 432.86,
+      "to": 437.68,
+      "sid": 214,
+      "location": 2,
+      "content": "人们比和他们在一起的人更爱爱的想法"
+    },
+    {
+      "from": 437.92,
+      "to": 442.92,
+      "sid": 215,
+      "location": 2,
+      "content": "我很清楚这不是节目中特别有趣的部分"
+    },
+    {
+      "from": 445.88,
+      "to": 447.48,
+      "sid": 216,
+      "location": 2,
+      "content": "每次我做这个动作"
+    },
+    {
+      "from": 447.48,
+      "to": 448.28,
+      "sid": 217,
+      "location": 2,
+      "content": "我的经纪人就像"
+    },
+    {
+      "from": 448.28,
+      "to": 451.24,
+      "sid": 218,
+      "location": 2,
+      "content": "你能不能别再悲伤了"
+    },
+    {
+      "from": 452.05,
+      "to": 453.07,
+      "sid": 219,
+      "location": 2,
+      "content": "我的回答是不"
+    },
+    {
+      "from": 453.07,
+      "to": 454.43,
+      "sid": 220,
+      "location": 2,
+      "content": "有三个原因一"
+    },
+    {
+      "from": 457.71,
+      "to": 459.43,
+      "sid": 221,
+      "location": 2,
+      "content": "我认为这是为数不多的智能机器之一"
+    },
+    {
+      "from": 459.43,
+      "to": 460.72,
+      "sid": 222,
+      "location": 2,
+      "content": "我已经做了三次了"
+    },
+    {
+      "from": 464.89,
+      "to": 467.21,
+      "sid": 223,
+      "location": 2,
+      "content": "我从七岁起就一直在想这个类比"
+    },
+    {
+      "from": 467.21,
+      "to": 468.29,
+      "sid": 224,
+      "location": 2,
+      "content": "但它总是对我说话"
+    },
+    {
+      "from": 468.29,
+      "to": 470.11,
+      "sid": 225,
+      "location": 2,
+      "content": "因为我是一个永远单身的人"
+    },
+    {
+      "from": 470.11,
+      "to": 471.19,
+      "sid": 226,
+      "location": 2,
+      "content": "所以在我上台之前"
+    },
+    {
+      "from": 471.19,
+      "to": 472.27,
+      "sid": 227,
+      "location": 2,
+      "content": "我想和我的朋友谈谈"
+    },
+    {
+      "from": 472.27,
+      "to": 475.11,
+      "sid": 228,
+      "location": 2,
+      "content": "那些总是在恋爱中的人，看看这是否能引起他们的共鸣"
+    },
+    {
+      "from": 475.11,
+      "to": 476.7,
+      "sid": 229,
+      "location": 2,
+      "content": "就像它引起我的共鸣一样"
+    },
+    {
+      "from": 476.7,
+      "to": 477.26,
+      "sid": 230,
+      "location": 2,
+      "content": "所以我就想"
+    },
+    {
+      "from": 477.26,
+      "to": 478.42,
+      "sid": 231,
+      "location": 2,
+      "content": "我学会了一个类比"
+    },
+    {
+      "from": 478.42,
+      "to": 478.86,
+      "sid": 232,
+      "location": 2,
+      "content": "当我年轻的时候"
+    },
+    {
+      "from": 478.86,
+      "to": 479.62,
+      "sid": 233,
+      "location": 2,
+      "content": "可能听起来很蠢"
+    },
+    {
+      "from": 479.62,
+      "to": 480.82,
+      "sid": 234,
+      "location": 2,
+      "content": "但这对你有意义吗"
+    },
+    {
+      "from": 480.82,
+      "to": 482.12,
+      "sid": 235,
+      "location": 2,
+      "content": "就像它对我一样"
+    },
+    {
+      "from": 482.12,
+      "to": 483.4,
+      "sid": 236,
+      "location": 2,
+      "content": "五个月内"
+    },
+    {
+      "from": 483.4,
+      "to": 485.88,
+      "sid": 237,
+      "location": 2,
+      "content": "其中四个已经和他们的伴侣分手了"
+    },
+    {
+      "from": 491.919,
+      "to": 495.479,
+      "sid": 238,
+      "location": 2,
+      "content": "我不是说找不到爱"
+    },
+    {
+      "from": 495.479,
+      "to": 498.62,
+      "sid": 239,
+      "location": 2,
+      "content": "我想说的是从统计学上来说"
+    },
+    {
+      "from": 509.88,
+      "to": 510.84,
+      "sid": 240,
+      "location": 2,
+      "content": "我想说的是"
+    },
+    {
+      "from": 510.84,
+      "to": 513.4,
+      "sid": 241,
+      "location": 2,
+      "content": "如果你觉得很难嘲笑这个套路"
+    },
+    {
+      "from": 513.4,
+      "to": 517.799,
+      "sid": 242,
+      "location": 2,
+      "content": "那是因为你内心深处并不爱和你在一起的人"
+    },
+    {
+      "from": 520.659,
+      "to": 524.22,
+      "sid": 243,
+      "location": 2,
+      "content": "所以我们要么开怀大笑，要么享受尴尬的乘车回家"
+    },
+    {
+      "from": 533.04,
+      "to": 534.38,
+      "sid": 244,
+      "location": 2,
+      "content": "从心底里"
+    },
+    {
+      "from": 534.38,
+      "to": 538.14,
+      "sid": 245,
+      "location": 2,
+      "content": "我相信世界上80%的关系"
+    },
+    {
+      "from": 538.14,
+      "to": 540.16,
+      "sid": 246,
+      "location": 2,
+      "content": "因此这个房间"
+    },
+    {
+      "from": 543.28,
+      "to": 547.14,
+      "sid": 247,
+      "location": 2,
+      "content": "一群从不花时间学习如何独处的人"
+    },
+    {
+      "from": 547.14,
+      "to": 549.38,
+      "sid": 248,
+      "location": 2,
+      "content": "所以从来没有学会如何爱自己"
+    },
+    {
+      "from": 549.38,
+      "to": 553.42,
+      "sid": 249,
+      "location": 2,
+      "content": "所以你雇了别人来做这件事"
+    },
+    {
+      "from": 558.02,
+      "to": 560.54,
+      "sid": 250,
+      "location": 2,
+      "content": "如果你想证明大多数关系看起来有多糟糕"
+    },
+    {
+      "from": 560.54,
+      "to": 561.96,
+      "sid": 251,
+      "location": 2,
+      "content": "人们是如何拼命寻求建议的"
+    },
+    {
+      "from": 561.96,
+      "to": 563.86,
+      "sid": 252,
+      "location": 2,
+      "content": "幸福关系的秘诀在哪里"
+    },
+    {
+      "from": 563.86,
+      "to": 566.2,
+      "sid": 253,
+      "location": 2,
+      "content": "一段长久而成功的关系的秘诀是什么"
+    },
+    {
+      "from": 571.339,
+      "to": 573.099,
+      "sid": 254,
+      "location": 2,
+      "content": "它应该像呼吸一样容易"
+    },
+    {
+      "from": 573.099,
+      "to": 575.1,
+      "sid": 255,
+      "location": 2,
+      "content": "没有他们，和他们在一起，你什么都不是"
+    },
+    {
+      "from": 575.1,
+      "to": 576.92,
+      "sid": 256,
+      "location": 2,
+      "content": "如果在任何时候变得困难"
+    },
+    {
+      "from": 576.92,
+      "to": 577.34,
+      "sid": 257,
+      "location": 2,
+      "content": "出去"
+    },
+    {
+      "from": 577.34,
+      "to": 578.1,
+      "sid": 258,
+      "location": 2,
+      "content": "因为有七个"
+    },
+    {
+      "from": 578.1,
+      "to": 579.5,
+      "sid": 259,
+      "location": 2,
+      "content": "地球上50亿人"
+    },
+    {
+      "from": 579.5,
+      "to": 580.93,
+      "sid": 260,
+      "location": 2,
+      "content": "你会找到一个新的"
+    }
+  ]
+}
